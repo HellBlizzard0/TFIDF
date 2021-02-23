@@ -1,5 +1,7 @@
-# TFIDF
+### TFIDF - forked from [mayank408/TFIDF](https://github.com/mayank408/TFIDF).
+I only added a TFIDF-Flexible.ipynb, which is a modified version of TFIDF.ipynb that accepts a variable number of documents.
 
+# From the original author: 
 ## Implementation of TF-IDF from scratch in Python
 
 #### Term Frequency: This summarizes how often a given word appears within a document.
